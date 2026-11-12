@@ -1,0 +1,49 @@
+# Copyright (C) 2026 Sérgio Santos
+# This file is distributed under the GPL-3.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Migration 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/s3rgiosan/divi-migration/issues\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-10T12:43:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: divi-migration\n"
+
+#. Plugin Name of the plugin
+#: plugin.php
+msgid "Divi Migration"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: plugin.php
+msgid "https://github.com/s3rgiosan/divi-migration"
+msgstr ""
+
+#. Description of the plugin
+#: plugin.php
+msgid "Convert Divi Builder content to blocks."
+msgstr ""
+
+#. Author of the plugin
+#: plugin.php
+msgid "Sérgio Santos"
+msgstr ""
+
+#. Author URI of the plugin
+#: plugin.php
+msgid "https://s3rgiosan.dev/?utm_source=wp-plugins&utm_medium=divi-migration&utm_campaign=author-uri"
+msgstr ""
+
+#: includes/Rules/Blog.php:145
+msgid "read more"
+msgstr ""
+
+#: includes/Widgets.php:103
+#: includes/Widgets.php:105
+msgid "Search"
+msgstr ""

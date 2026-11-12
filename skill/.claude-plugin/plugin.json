@@ -1,0 +1,14 @@
+{
+  "name": "wp-divi-migration",
+  "version": "1.0.0",
+  "description": "Move a Divi site to a block theme and the block editor: inventory where Divi lives, read Divi's layout model into theme.json, convert et_pb_ modules to blocks through the Divi Migration plugin, which runs on the server with WP-CLI, carry over Theme Builder layouts, menus, widgets and child-theme functionality, and reach visual parity with the wp-design-to-block-theme capture and compare scripts. Requires wp-design-to-block-theme.",
+  "dependencies": ["wp-design-to-block-theme@s3rgiosan-wp-skills"],
+  "author": {
+    "name": "Sérgio Santos",
+    "url": "https://github.com/s3rgiosan"
+  },
+  "homepage": "https://github.com/s3rgiosan/divi-migration/tree/main/skill",
+  "repository": "https://github.com/s3rgiosan/divi-migration",
+  "license": "MIT",
+  "keywords": ["wordpress", "divi", "migration", "block-theme", "fse", "theme-json", "gutenberg", "page-builder"]
+}

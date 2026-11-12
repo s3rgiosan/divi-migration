@@ -1,0 +1,26 @@
+{
+  "name": "divi-migration",
+  "version": "1.0.0",
+  "description": "Convert Divi Builder content to blocks.",
+  "contributors": [
+    {
+      "name": "Sérgio Santos",
+      "homepage": "https://s3rgiosan.dev"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s3rgiosan/divi-migration"
+  },
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "test:e2e": "playwright test"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}
